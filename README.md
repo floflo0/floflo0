@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Floris</h1>
 
-<!--
-**floflo0/floflo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <a href="https://www.linkedin.com/in/floris-bartra-5043b1258" title="Floris Bartra"><img al="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c3?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+    <a href="https://discordapp.com/users/523827517732159498" title="floflooo10"><img al="Discord" src="https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white&style=for-the-badge"></a>
+</div>
 
-Here are some ideas to get you started:
+### About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently student in computer science at [**INSA Rennes**](https://www.insa-rennes.fr/).
+- 🔭 I’m currently working on the [@Insalan](https://github.com/InsaLan/)'s website.
+
+------
+
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floflo0&exclude_repo=amberol,dotfiles&layout=normal&theme=dracula)
