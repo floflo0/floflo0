@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Floris</h1>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/floris-bartra-5043b1258" title="Floris Bartra"><img al="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c3?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+    <a href="www.linkedin.com/in/floris-bartra" title="Floris Bartra"><img al="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c3?logo=linkedin&logoColor=white&style=for-the-badge"></a>
     <a href="https://discordapp.com/users/523827517732159498" title="floflooo10"><img al="Discord" src="https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white&style=for-the-badge"></a>
 </div>
 
